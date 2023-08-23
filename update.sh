@@ -1,15 +1,15 @@
 #!/bin/bash
 
-# Rename the NucleiFuzzer.sh file to NucleiFuzzer
+# Rename the NucleiUpdate.sh file to nucleiupdate
 mv NucleiUpdate.sh nucleiupdate
 
-# Copy the NucleiFuzzer file to /usr/local/bin
+# Copy the NucleiUpdate file to /usr/local/bin
 sudo cp nucleiupdate /usr/local/bin/
 
-# Make the NucleiFuzzer file executable
+# Make the NucleiUpdate file executable
 sudo chmod +x /usr/local/bin/nucleiupdate
 
-# Remove the NucleiFuzzer folder from the home directory
+# Remove the NucleiUpdate folder from the home directory
 if [ -d "$home_dir/NucleiUpdate" ]; then
     echo "Removing NucleiUpdate folder..."
     rm -r "$home_dir/NucleiUpdate"
