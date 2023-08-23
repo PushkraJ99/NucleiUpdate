@@ -9,7 +9,7 @@ sudo cp nucleiupdate /usr/local/bin/
 # Make the NucleiUpdate file Executable
 sudo chmod +x /usr/local/bin/nucleiupdate
 
-# Remove the NucleiUpdate folder from the home directory
+# Remove the NucleiUpdate Folder from the home directory
 if [ -d "$home_dir/NucleiUpdate" ]; then
     echo "Removing NucleiUpdate folder..."
     rm -r "$home_dir/NucleiUpdate"
