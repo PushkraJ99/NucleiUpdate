@@ -1,5 +1,5 @@
 # Auto Nuclei Updater
-- `NucleiUpdater` is an Automation Tool that Update Nuclei with Single Command on terminal as `nucleiupdate`.
+- `NucleiUpdater` is an Automation Tool that Update Nuclei with Single Command on Terminal as `nucleiupdate`.
 - No Any Need to Check for latest Version of Nuclei Just use `nucleiupdate` to Update Nuclei Automatically.
 - Install for Once and Use for Lifetime.
 - You Can Use this Tool to Newly Install Nuclei on Your System.
@@ -32,7 +32,7 @@ nucleiupdate
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
 
 
-[(https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
 <p align="center"> 
   <b> Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
