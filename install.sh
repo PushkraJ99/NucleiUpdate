@@ -14,7 +14,7 @@ if [ -d "$home_dir/NucleiUpdate" ]; then
     echo "Removing NucleiUpdate folder..."
     rm -r "$home_dir/NucleiUpdate"
 fi
-echo -e "\e[96m
+echo -e "\e[94m
     _   __              __       _    __  __            __        __             
    / | / /__  __ _____ / /___   (_)  / / / /____   ____/ /____ _ / /_ ___   _____
   /  |/ // / / // ___// // _ \ / /  / / / // __ \ / __  // __  // __// _ \ / ___/
