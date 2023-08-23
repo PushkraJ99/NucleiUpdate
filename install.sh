@@ -29,4 +29,3 @@ echo "Now Enter the Command 'nucleiupdate' to Update Nuclei."
 
 cd ../
 sudo rm -r NucleiUpdate
-
