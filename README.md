@@ -1,12 +1,17 @@
 # Nuclei Update
-`NucleiUpdater` is an Automation Tool that Update Nuclei with Single Command on terminal as `nucleiupdate`.
-
+- `NucleiUpdater` is an Automation Tool that Update Nuclei with Single Command on terminal as `nucleiupdate`.
+- No Any Need to Check for latest Version of Nuclei Just use `nucleiupdate` to Update Nuclei Automatically.
+- Install for Once and Use for Lifetime.
+- You Can Use this Tool to Newly Install Nuclei on Your System.
+  
 ### Steps to Install:
 ```sh
 git clone https://github.com/PushkraJ99/NucleiUpdate.git
 cd NucleiUpdate
 sudo bash install.sh
-
+```
+### Run Command to Update
+```
 nucleiupdate
 ```
 
