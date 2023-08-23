@@ -1,4 +1,4 @@
-# Nuclei Update
+# Auto Nuclei Updater
 - `NucleiUpdater` is an Automation Tool that Update Nuclei with Single Command on terminal as `nucleiupdate`.
 - No Any Need to Check for latest Version of Nuclei Just use `nucleiupdate` to Update Nuclei Automatically.
 - Install for Once and Use for Lifetime.
