@@ -6,7 +6,7 @@ mv NucleiUpdate.sh nucleiupdate
 # Copy the NucleiUpdate file to /usr/local/bin
 sudo cp nucleiupdate /usr/local/bin/
 
-# Make the NucleiUpdate file executable
+# Make the NucleiUpdate file Executable
 sudo chmod +x /usr/local/bin/nucleiupdate
 
 # Remove the NucleiUpdate folder from the home directory
