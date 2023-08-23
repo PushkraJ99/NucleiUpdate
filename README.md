@@ -32,7 +32,7 @@ nucleiupdate
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
 
 
-[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+[(https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
 <p align="center"> 
   <b> Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
