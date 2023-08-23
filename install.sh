@@ -24,4 +24,5 @@ echo -e "\e[96m
                                         
                                             Made by By PushkraJ
 \e[0m"
-echo "Nuclei Updater has been Installed Successfully !!! Now Enter the Command 'nucleiupdate' to Update Nuclei."
+echo "Nuclei Updater has been Installed Successfully !!!"
+echo "Now Enter the Command 'nucleiupdate' to Update Nuclei."
