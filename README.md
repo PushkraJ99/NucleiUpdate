@@ -5,16 +5,13 @@
 ```sh
 git clone https://github.com/PushkraJ99/NucleiUpdate.git
 cd NucleiUpdate
-sudo chmod +x install.sh
-./install.sh OR bash install.sh <br>
+sudo bash install.sh
+
 nucleiupdate
 ```
 
 ### Tools included:
 [Nuclei](https://github.com/projectdiscovery/nuclei) `git clone https://github.com/projectdiscovery/nuclei.git`
-
-### Templates:
-[Fuzzing Templates](https://github.com/projectdiscovery/fuzzing-templates) `git clone https://github.com/projectdiscovery/fuzzing-templates.git`
 
 
 ## Usage
