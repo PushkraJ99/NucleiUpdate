@@ -15,13 +15,13 @@ echo -e "\e[91m
 
 # Check if nuclei is Updated, if not, Update it
 echo "Updatalling Nuclei..."
-cd Desktop
+cd /home/kali/Desktop/
 git clone https://github.com/projectdiscovery/nuclei
 cd nuclei/v2/cmd/nuclei; go build
 sudo mv nuclei /usr/bin
 
 cd ../
-cd /Desktop
+cd /home/kali/Desktop/
 sudo rm -r nuclei
 
 # Nuclei Update is completed
