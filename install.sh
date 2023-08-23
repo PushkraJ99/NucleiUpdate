@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Rename the NucleiUpdate.sh file to nucleiupdate
-mv NucleiUpdate.sh nucleiupdate
+sudo mv NucleiUpdate.sh nucleiupdate
 
 # Copy the NucleiUpdate file to /usr/local/bin
 sudo cp nucleiupdate /usr/local/bin/
