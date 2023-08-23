@@ -3,6 +3,7 @@
 - No Any Need to Check for latest Version of Nuclei Just use `nucleiupdate` to Update Nuclei Automatically.
 - Install for Once and Use for Lifetime.
 - You Can Use this Tool to Newly Install Nuclei on Your System.
+- Only Work in Kali Linux
   
 ### Steps to Install:
 ```sh
