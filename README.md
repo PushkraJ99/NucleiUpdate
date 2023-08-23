@@ -3,7 +3,7 @@
 - No Any Need to Check for latest Version of Nuclei Just use `nucleiupdate` to Update Nuclei Automatically.
 - Install for Once and Use for Lifetime.
 - You Can Use this Tool to Newly Install Nuclei on Your System.
-- Use in Any Linux.
+
   
 ### Steps to Install:
 ```sh
