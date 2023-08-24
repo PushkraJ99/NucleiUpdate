@@ -14,13 +14,14 @@ echo -e "\e[91m
 
 # Update Nuclei
 echo "Updatalling Nuclei..."
-cd 
+cd ~
+cd ../
 cd /usr/local/bin/
 sudo git clone https://github.com/projectdiscovery/nuclei
 cd nuclei/v2/cmd/nuclei; go build
 sudo mv nuclei /usr/bin
-
-cd 
+cd ~
+cd ../
 cd /usr/local/bin/
 sudo rm -r nuclei
 
