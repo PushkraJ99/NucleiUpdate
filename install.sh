@@ -25,7 +25,7 @@ echo -e "\e[94m
                                             Made by By PushkraJ
 \e[0m"
 echo "Nuclei Updater has been Installed Successfully !!!"
-echo "Now Enter the Command \e[92m 'nucleiupdate' \e[0m to Update Nuclei."
+echo "Now Enter the Command" "\e[92m 'nucleiupdate' \e[0m" "to Update Nuclei."
 
 cd ../
 sudo rm -r NucleiUpdate
