@@ -16,6 +16,8 @@ sudo bash install.sh
 ```
 nucleiupdate
 ```
+### Watch Video to Understand Installation Process
+https://github.com/PushkraJ99/NucleiUpdate/assets/104222808/603d69e5-1eff-48dc-b67b-09b9afa69835
 
 ### Tools included:
 [Nuclei](https://github.com/projectdiscovery/nuclei) `git clone https://github.com/projectdiscovery/nuclei.git`
