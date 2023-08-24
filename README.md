@@ -12,7 +12,7 @@ git clone https://github.com/PushkraJ99/NucleiUpdate.git
 cd NucleiUpdate
 sudo bash install.sh
 ```
-### Run Command to Update Nuclei Or Newly Install Nuclei
+### Opem New Terminal & Run Command to Update Nuclei Or Newly Install Nuclei
 ```
 nucleiupdate
 ```
