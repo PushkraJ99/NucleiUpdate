@@ -34,5 +34,5 @@ echo -e "\e[93m
                                         /_/                                        
                                             Made by By PushkraJ
 \e[0m"
-
+nuclei -ut
 nuclei
