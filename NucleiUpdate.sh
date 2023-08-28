@@ -24,7 +24,8 @@ cd ~
 cd ../
 cd /usr/local/bin/
 sudo rm -r nuclei
-
+nuclei -ut
+nuclei -update
 # Nuclei Update is completed
 echo -e "\e[93m
     _   __              __       _    __  __            __        __             __
@@ -36,5 +37,4 @@ echo -e "\e[93m
                                             Made by By PushkraJ
 \e[0m"
 
-nuclei -ut
 nuclei
