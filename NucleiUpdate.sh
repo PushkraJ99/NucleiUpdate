@@ -17,15 +17,9 @@ echo "Updatalling Nuclei..."
 cd ~
 cd ../
 cd /usr/local/bin/
-sudo git clone https://github.com/projectdiscovery/nuclei
-cd nuclei/v2/cmd/nuclei; go build
-sudo mv nuclei /usr/bin
-cd ~
-cd ../
-cd /usr/local/bin/
-sudo rm -r nuclei
-nuclei -ut
 nuclei -update
+nuclei -ut
+
 # Nuclei Update is completed
 echo -e "\e[93m
     _   __              __       _    __  __            __        __             __
