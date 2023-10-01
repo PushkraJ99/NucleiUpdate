@@ -15,18 +15,14 @@ echo -e "\e[91m
 # Update Nuclei
 echo "Updating Nuclei..."
 cd ~
+go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
+cd go/bin
+sudo mv nuclei /usr/local/bin
 cd /usr/local/bin/
-nuclei -update
 nuclei -ut
 
 # Nuclei Update is completed
 echo -e "\e[93m
-    _   __              __       _    __  __            __        __             __
-   / | / /__  __ _____ / /___   (_)  / / / /____   ____/ /____ _ / /_ ___   ____/ /
-  /  |/ // / / // ___// // _ \ / /  / / / // __ \ / __  // __  // __// _ \ / __  / 
- / /|  // /_/ // /__ / //  __// /  / /_/ // /_/ // /_/ // /_/ // /_ /  __// /_/ /  
-/_/ |_/ \__,_/ \___//_/ \___//_/   \____// .___/ \__,_/ \__,_/ \__/ \___/ \__,_/   
-                                        /_/                                        
                                             
 \e[0m"
 
